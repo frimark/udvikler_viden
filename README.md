@@ -1,4 +1,4 @@
-# giver javascript frameworks GF og kunderne værdi? 
+# Giver javascript frameworks GF og kunderne værdi? 
 
 Baggrund:
 Digiteam ønsker at drøfte om javascript frameworks kan skabe værdi for vores arbejde på tværs af teams og se om vi kan ensarte hvor det giver mening, samt ensarte kompetenceudvikling og vidensdeling. 
